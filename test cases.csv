@@ -1,0 +1,8 @@
+Test Case ID,Description,Expected Outcome,
+1,Increase temperature via UART (+),Target temperature increments.,
+2,Decrease temperature via UART (-),Target temperature decrements.,
+3,Toggle AC state via UART (t),AC state toggles between ON/OFF.,
+4,Display target temperature on LCD,Correct temperature displayed.,
+,,,
+,,,
+,,,
